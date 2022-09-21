@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+/* RESET STYLE */
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Poppins', sans-serif;
+  color: rgb(60, 96, 164);
+}
+
+/* NAVBAR */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 50px;
+}
+
+.logo {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+ul {
+  display: flex;
+}
+
+ul li {
+  margin: 0 10px;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+ul li a {
+  padding: 8px 20px;
+  border-radius: 25px;
+}
+
+ul li a:hover {
+  background-color: rgb(60, 96, 164);
+  color: #fff;
+}
+
+/* HOME */
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 50px;
+  margin-top: 100px;
+}
+
+.home-text h1 {
+  font-size: 60px;
+  margin-bottom: 50px;
+}
+
+.home-text span {
+  color: rgb(58, 72, 98);
+}
+
+.home-text a {
+  font-size: 24px;
+  background-color: rgb(60, 96, 164);
+  padding: 20px 40px;
+  color: #fff;
+  border-radius:50px;
+}
