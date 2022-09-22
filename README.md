@@ -12,10 +12,12 @@ extensions
 
 image
 - [pexels](https://www.pexels.com/id-id/)
-- [unsplash](https://unsplash.com/)
-- [humaaans](https://www.humaaans.com/)
-- [undraw](https://undraw.co/illustrations)
-- [freepik](https://www.freepik.com/)
+- [unsplash](https://unsplash.com/) - foto
+- [humaaans](https://www.humaaans.com/) - illustrasi manusia
+- [undraw](https://undraw.co/illustrations) - illustrasi
+- [freepik](https://www.freepik.com/) 
+- [waves](https://getwaves.io/) - waves maker
+- [blob](https://www.blobmaker.app/) - blob maker
 
 Icon
 - [iconscout](https://iconscout.com/)
