@@ -25,6 +25,11 @@ Icon
 - [remix icon](https://remixicon.com/) 
 - [flaticon](https://www.flaticon.com/)
 
-JS
+Animation
 - [scroll reveal](https://scrollrevealjs.org/)
 - [swiper](https://swiperjs.com/)
+
+Repo
+- [JS clean code](https://github.com/ryanmcdermott/clean-code-javascript)
+- [JS Algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Data structure algorithm](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
