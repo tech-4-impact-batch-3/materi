@@ -1,6 +1,6 @@
 # Resource
 
-extensions
+### extensions
 - live server
 - prettier
 - auto close tag
@@ -10,7 +10,7 @@ extensions
 - ES6
 - ES7 + react
 
-image
+### image
 - [pexels](https://www.pexels.com/id-id/)
 - [unsplash](https://unsplash.com/) - foto
 - [humaaans](https://www.humaaans.com/) - illustrasi manusia
@@ -19,17 +19,22 @@ image
 - [waves](https://getwaves.io/) - waves maker
 - [blob](https://www.blobmaker.app/) - blob maker
 
-Icon
+### Icon
 - [iconscout](https://iconscout.com/)
 - [boxicons](https://boxicons.com/)
 - [remix icon](https://remixicon.com/) 
 - [flaticon](https://www.flaticon.com/)
 
-Animation
+### Animation
 - [scroll reveal](https://scrollrevealjs.org/)
 - [swiper](https://swiperjs.com/)
 
-Repo
+### Coding practice
+- [codewars](https://www.codewars.com/dashboard)
+- [leetcode](https://leetcode.com/)
+- [hackerank](https://www.hackerrank.com/)
+
+### Repo  
 - [JS clean code](https://github.com/ryanmcdermott/clean-code-javascript)
 - [JS Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Data structure algorithm](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
