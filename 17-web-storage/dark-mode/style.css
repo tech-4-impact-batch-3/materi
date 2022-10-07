@@ -1,0 +1,38 @@
+@import "https://fonts.googleapis.com/css?family=Poppins";
+
+:root {
+  --primary-bg: #ececec;
+  --primary-bg-reverse: black;
+  --secondary: rgb(0, 112, 112);
+  --gray-50: #777;
+}
+
+.dark {
+  --primary-bg: rgb(32, 32, 32);
+  --primary-bg-reverse: #ececec;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--primary-bg-reverse);
+  background-color: var(--primary-bg);
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  transition: 0.3s cubic-bezier(0.895, 0.03, 0.685, 0.22);
+}
+
+.title {
+  text-align: center;
+}
+
+.subtitle {
+  color: var(--secondary);
+  text-align: center;
+}
