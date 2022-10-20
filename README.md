@@ -65,19 +65,19 @@
 <details>
   <summary style="font-size: 1.5rem">Advanced</summary>
   
-  ### 3D
+### 3D
 
 - [webgl](https://get.webgl.org) - API untuk render grafis 3D yg interaktif, mostly semua library dibawah menggunakan ini
 - [threejs](https://threejs.org) - ga tau lagi, lu bisa buat apa aja dengan ini xd
 - [d3js](https://d3js.org) - charts and graphs that rely on 3D effects
 - [seenjs](http://seenjs.io) - render 3d scenes into SVG or HTML5 Canvas
 
-  ### Competitive Programming
+### Competitive Programming
 
 - [Algoritm Playlist by Errichto](https://www.youtube.com/playlist?list=PLl0KD3g-oDOHpWRyyGBUJ9jmul0lUOD80)
 - [Algoritm Part 1 by Kevin Wayne](https://www.coursera.org/learn/algorithms-part1)
 
-  ### Cyber Security
+### Cyber Security
 
 - [tryhackme](https://tryhackme.com)
 - [hackthebox](https://www.hackthebox.com)
