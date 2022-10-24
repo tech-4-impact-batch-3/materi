@@ -8,7 +8,7 @@
 }
 
 .dark {
-  --primary-bg: rgb(32, 32, 32);
+  --primary-bg: black;
   --primary-bg-reverse: #ececec;
 }
 
