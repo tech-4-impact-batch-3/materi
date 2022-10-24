@@ -5,6 +5,7 @@ const todos = [];
 if (localStorage.getItem("todo")) {
   const todoStore = JSON.parse(localStorage.getItem("todo"));
 
+  // ==================== tampilkan semua todo yang ada di list todos
   todoStore.map((todo) => {
     const li = document.createElement("li");
     li.innerText = todo;
@@ -19,13 +20,17 @@ document.querySelector("form").addEventListener("submit", (ev) => {
   ev.preventDefault();
   const userInput = document.querySelector("input").value;
 
+  // ==================== membuat element li dan isi text nya dengan inputan user
   const li = document.createElement("li");
   li.innerText = userInput;
 
+  // ==================== update todo, tambahkan inputan user
   todos.push(userInput);
 
+  // ==================== simpan list todo terbaru ke localStorage
   localStorage.setItem("todo", JSON.stringify(todos));
 
+  // ==================== masukkan element li yg sudah di buat ke #list-container
   const container = document.querySelector("#list-container");
   container.appendChild(li);
 });
